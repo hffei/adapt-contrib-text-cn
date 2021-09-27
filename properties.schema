@@ -22,12 +22,13 @@
       "editorOnly": true
     },
     "instruction": {
+      "title":"说明",
       "type": "string",
       "required": false,
-      "default": "",
+      "default": "这是一个文本组件",
       "inputType": "Text",
       "validators": [],
-      "help": "This is the instruction text",
+      "help": "这是一个文本组件",
       "translatable": true
     }
   }
